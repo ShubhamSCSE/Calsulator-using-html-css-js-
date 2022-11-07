@@ -1,0 +1,19 @@
+.text-center{
+    text-align: center;
+}
+.containor{
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;    
+}
+.row input{
+    margin: 0;
+    padding: 12px 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 1dddrem;
+}
